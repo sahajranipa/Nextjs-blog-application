@@ -1,0 +1,16 @@
+.blog_item_container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.blogcard {
+  width: 70%;
+  height: 90%;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 10px 20px #1687d933;
+  padding: 2em;
+  border-radius: 10px;
+  background-color: powderblue;
+}

@@ -1,15 +1,17 @@
-.navbar {
-  background-color: white;
-  overflow: hidden;
+.nav_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .navlinks {
-  float: left;
-  display: block;
+  padding: 12px;
   color: blue;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .navlinks:hover {
